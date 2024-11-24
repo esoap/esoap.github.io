@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "profile_241124.jpeg"
+  name             : "Jihae Sophia Lee"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "South Korea"
+  employer         : "Joon An Lab"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jihae.s.l22@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
