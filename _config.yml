@@ -21,7 +21,7 @@ repository               : "esoap/esoap.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_test.png"
+  avatar           : "profile_lab.png"
   name             : "Jihae Sophia Lee"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jihae-sophia-lee/"
+  linkedin         : "jihae-sophia-lee/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
