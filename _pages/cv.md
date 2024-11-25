@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * B.E. in Computer Science and Engineering, Korea University, 2024
 * B.S. in Biosystem and Biomedical Sciences, Korea University, 2024
+* Exchange Student in Biology, University of Oregon, 2023
 
 Work experience
 ======
@@ -90,33 +90,38 @@ Teaching
   
 Service, Leadership, Volunteering
 ======
-**Korea University Disease Study Society (DSS)** | *President* | March 2022 – February 2023 | [Website](http://dss.or.kr/) <br>
+**Korea University Disease Study Society (DSS)** <br>
+*President* | March 2022 – February 2023 | [Website](http://dss.or.kr/) <br>
 
 
 * Successfully managed remote to in-person transition after two years of virtual activities.
 * Led a cohesive management team of 8 people, delegating budgeting, research, operations, and promotion activities.
 * Orchestrated guest lectures and field trips to leading research institutions, including the National Cancer Center (NCC), to enrich the educational experience of society members.
 
-**Korea University Biosystems and Medical Sciences Band, BAZIRAK** | *President* | March 2020 – February 2022 | [YouTube](https://www.youtube.com/@bazirak6589), [Instagram](https://www.instagram.com/bazirak_bsms/)<br>
+**Korea University Biosystems and Medical Sciences Band, BAZIRAK** <br>
+*President* | March 2020 – February 2022 | [YouTube](https://www.youtube.com/@bazirak6589), [Instagram](https://www.instagram.com/bazirak_bsms/)<br>
 
 * Sustained the band during COVID-19 pandemic using innovative methods of engagement and promotion by using YouTube and Instagram.
 * Filmed, and edited online performances during the COVID-19 pandemic.
 * Facilitated virtual meetings and practice sessions, fostering collaboration and maintaining group cohesion during remote activities.
 
-**Korea Hacks 2021** | *MC, Organizing Team* | November 2021 <br>
+**Korea Hacks 2021** <br>
+*MC, Organizing Team* | November 2021 <br>
 
 * Facilitated smooth transitions between sessions by collaborating with sponsors, speakers, judges, and participants, ensuring a seamless experience throughout the event.
 * Moderated virtual hackathon events, ensuring active participant engagement and adherence to the event schedule.
 * Promoted the hackathon through media, managed participant registration, and provided clear guidance to ensure a smooth and interactive experience from start to finish.
 
 
-**Korea University Computer Club (KUCC)** | *Public Relations Committee, Library Committee* | March 2020 – June 2021 | [Website](https://kucc.co.kr/) <br>
+**Korea University Computer Club (KUCC)** <br>
+*Public Relations Committee, Library Committee* | March 2020 – June 2021 | [Website](https://kucc.co.kr/) <br>
 
 * Recruited and conducted interviews with over 150 candidates.
 * Simplified understanding of Computer Science and AI though engaging with Instagram posts.
 * Developed an automatic book rental system using Apps Script.
 
-**Multicultural School Volunteer Group** | *Tutor, Mentor* | 2015 – 2018 <br>
+**Multicultural School Volunteer Group** <br>
+*Tutor, Mentor* | 2015 – 2018 <br>
 
 * Provided academic support to children, focusing on Korean schoolwork to enhance their understanding and performance.
 * Mentored children to embrace their individuality and foster self-confidence through personalized guidance.
