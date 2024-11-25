@@ -1,11 +1,11 @@
 ---
 title: "[Journal Club] Single-cell genomics reveals region-specific developmental trajectories underlying neuronal diversity in the human hypothalamus"
 collection: talks
-type: "Talk"
+type: "Journal Club"
 permalink: /talks/2024-05-01-journalclub-1
-venue: "Journal Club"
+venue: "Joon An Lab"
 date: 2024-05-01
-location: "Joon An Lab, Seoul, South Korea"
+location: "Seoul, South Korea"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h6cPGjzS2J0" 
         title="YouTube video player" frameborder="0" 
