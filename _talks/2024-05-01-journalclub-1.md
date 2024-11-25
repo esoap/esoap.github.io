@@ -7,8 +7,4 @@ venue: "Journal Club"
 date: 2024-05-01
 location: "Joon An Lab, Seoul, South Korea"
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=h6cPGjzS2J0" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+<iframe src="https://www.youtube.com/watch?v=h6cPGjzS2J0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
