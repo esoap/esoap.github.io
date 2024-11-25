@@ -13,5 +13,4 @@ location: "Seoul, South Korea"
         allowfullscreen>
 </iframe>
 <br>
-**Paper Citation**: Herb BR, Glover HJ, Bhaduri A, Colantuoni C, Bale TL, Siletti K, Hodge R, Lein E, Kriegstein AR, Doege CA, Ament SA. Single-cell genomics reveals region-specific developmental trajectories underlying neuronal diversity in the human hypothalamus. Sci Adv. 2023 Nov 10;9(45):eadf6251. doi: 10.1126/sciadv.adf6251. Epub 2023 Nov 8. PMID: 37939194; PMCID: PMC10631741. <br><br>
-**Paper Link**: [Link](https://www.science.org/doi/10.1126/sciadv.adf6251)
+**Paper Link**: [Herb et al., Sci Adv. 2023](https://www.science.org/doi/10.1126/sciadv.adf6251)
