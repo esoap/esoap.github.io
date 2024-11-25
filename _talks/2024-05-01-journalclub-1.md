@@ -13,4 +13,4 @@ location: "Seoul, South Korea"
         allowfullscreen>
 </iframe>
 <br>
-**Paper Link**: [Herb et al., Sci Adv. 2023](https://www.science.org/doi/10.1126/sciadv.adf6251)
+**Paper Link**: [Herb et al. (2023), Sci Adv](https://www.science.org/doi/10.1126/sciadv.adf6251)
