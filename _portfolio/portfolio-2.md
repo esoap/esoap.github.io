@@ -1,8 +1,7 @@
 ---
 title: "[Poster]: Comparison of Downstream Analysis of MERFISH and Visium Mouse Brain Samples"
-excerpt: "[Poster]: Comparison of Downstream Analysis of MERFISH and Visium Mouse Brain Samples"
+excerpt: "<img src='/images/MERFISH.jpg'>"
 collection: portfolio
 ---
-- 
-- Selected as one of the top 5 interns<br>
-<br/><img src='/images/MERFISH.jpg'>
+- Seoul University Cacner Institute Winter Internship Poster
+- Selected as top 5 interns with oral talk
