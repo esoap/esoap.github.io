@@ -51,7 +51,25 @@ Work experience
 * English academy teacher of elementary to high school students.
 * A personal TOEIC tutor for undergraduate students in Korea.
 * Assistant teacher in kids cafe, teaching and ensuring the safety of children under age 10.
-  
+
+
+PRESENTATIONS
+=====
+**Oral Presentation:** <br>
+<ins>“Comparison of Downstream Analysis of MERFISH and Visium Mouse Brain Samples”</ins>
+
+*	Top Intern Award - Seoul National University Cancer Research Institute, Seoul, Korea (February 2022) 
+
+**Poster Presentation:** <br>
+<ins>“Brain Organoid Cell Type Prediction by Brain Single-cell Atlas Trained Annotation Models”<ins>
+    
+*	Annual Meeting of the Korean Society for Molecular and Cellular Biology (KSMCB), Neurodevelopment Division, Busan, Korea (July 2024) 
+
+*	Annual Meeting of the Korean Society for Brain and Neural Sciences in conjunction with the Biennial Meeting of the Asian-Pacific Society for Neurochemistry (KSBNS-ASPN), Gyeongju, Korea (October 2024)
+
+*	Annual Meeting of the Korean Society for Bioinformatics (KSBI), Gyeongju, Korea (October 2024)
+
+
 Skills
 ======
 **Bioinformatics Analysis**
