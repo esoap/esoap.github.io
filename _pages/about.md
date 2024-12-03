@@ -15,9 +15,9 @@ Researchers have found risk genes through GWAS, and are further exploring their 
 Introducing me, I am an intersection of a lot of things. <br>
 
 * Being a bioinformatician means you are in between Biology and Computer Science <br>
-*(Which are my two undergraduate majors..)*
+*(which are my two undergraduate majors..)*
 * I have both Brazilian and Korean nationality 
-<br> *(Feijoada and Kimchi are both my soul foods!! Yum)* 
+<br> *(feijoada and kimchi are both my soul foods!! Yum)* 
 * I just love to be with people, nature, and animals <br>*(especially dogs, **the white dog among my pictures is called Pong**)*.<br>
 
 I want to bring this love and passion to my research. <br> Please stay tuned for any updates about my journey!
