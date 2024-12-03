@@ -18,5 +18,6 @@ Introducing me, I am an intersection of a lot of things. <br>
 *(Which are my two undergraduate majors..)*
 * I have both Brazilian and Korean nationality 
 <br> *(Feijoada and Kimchi are both my soul foods!! Yum)* 
-* I just love to be with people, nature, and animals <br>*(especially dogs, **the white dog among my pictures is called Pong**)*. <br>
+* I just love to be with people, nature, and animals <br>*(especially dogs, **the white dog among my pictures is called Pong**)*.<br>
+
 I want to bring this love and passion to my research. Please stay tuned for any updates about my journey!
