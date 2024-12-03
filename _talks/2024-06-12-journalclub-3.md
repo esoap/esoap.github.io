@@ -13,4 +13,4 @@ location: "Seoul, South Korea"
         allowfullscreen>
 </iframe>
 <br>
-**Paper Link**: [Paulsen et al. (2022), Nature](https://www.nature.com/articles/s41592-024-02353-z)
+**Paper Link**: [Paulsen et al. (2022), Nature](https://www.nature.com/articles/s41586-021-04358-6)
