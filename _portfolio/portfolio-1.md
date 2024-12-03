@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[Poster]: Brain Organoid Cell Type Prediction by Brain Single-cell Atlas Trained Annotation Models"
+excerpt: "Annual Meeting of the Korean Society for Molecular and Cellular Biology (KSMCB) Neurodevelopment Division, Busan, Korea (July 2024) <br> Annual Meeting of the Korean Society for Brain and Neural Sciences in conjunction with the Biennial Meeting of the Asian-Pacific Society for Neurochemistry (KSBNS-ASPN), Gyeongju, Korea (October 2024) <br> Annual Meeting of the Korean Society for Bioinformatics (KSBI), Gyeongju, Korea (October 2024)<br/><img src='/images/Organoid_Cell_Type_Prediction.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
